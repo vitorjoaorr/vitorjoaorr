@@ -2,8 +2,8 @@
 
  <div>
     <a href="https://github.com/vitorjoaorr">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorjoaorr&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorjoaorr&layout=compact&langs_count=6&theme=catppuccin_mocha"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorjoaorr&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorjoaorr&layout=compact&langs_count=6&theme=nightowl"/>
 </div>
     
 <div style="display: inline_block"><br>
